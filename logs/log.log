@@ -1,0 +1,8 @@
+2024-08-24 21:27:52,933 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-24 21:27:52,937 INFO c.i.t.p.i.StudentDaoImpl [main] In updateStudentFirstName: Student Last Name Updated Successfully for Student ID 1026
+2024-08-24 21:27:52,939 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-24 21:27:52,942 INFO c.i.t.p.i.StudentDaoImpl [main] In updateStudentFirstName: Student First Name Updated Successfully for Student ID 1026
+2024-08-24 21:27:52,944 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-24 21:27:52,950 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: A file with the provided Student ID already exists
+2024-08-24 21:27:52,951 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-24 21:27:52,954 INFO c.i.t.p.i.StudentDaoImpl [main] In fetchStudent: Student data successfully fetched for ID 1026
